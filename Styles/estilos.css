@@ -1,0 +1,28 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto", sans-serif
+}
+
+#nombre {
+    position: absolute;
+    left:0;
+    bottom: 0;
+    
+    background-color:aliceblue;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-color: aliceblue;
+    border-width: 6px;
+
+    color:black;
+    font-size:x-large;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    margin-left: 10px;
+}
