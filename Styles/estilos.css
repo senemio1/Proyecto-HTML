@@ -9,20 +9,79 @@ h6 {
     font-family: "Roboto", sans-serif
 }
 
-#nombre {
+footer {
+    display: block;
+}
+
+
+
+.nombre {
     position: absolute;
-    left:0;
+    left: 0;
     bottom: 0;
-    
-    background-color:aliceblue;
+    font-family: "Roboto", sans-serif;
+    font-size: x-large;   
+    margin-left: 10px;
+}
+
+.fondo-blanco {
+
+    background-color: aliceblue;
     border-right-style: solid;
     border-left-style: solid;
     border-color: aliceblue;
     border-width: 6px;
+}
 
-    color:black;
-    font-size:x-large;
-    font-weight: bold;
-    font-family: "Roboto", sans-serif;
-    margin-left: 10px;
+
+.pill {
+    border-radius: 16px
+}
+
+.rosado {
+    color: #f88f8f !important;
+    background-color: #f88f8f !important
+}
+
+.grisclaro {
+    color: #000 !important;
+    background-color: #f1f1f1 !important
+}
+
+.texto-rosado {
+    color: #f88f8f !important;
+}
+
+.texto-piel {
+    color: #cfbdbb !important;
+}
+
+.texto_grisosc {
+    color: #4d5e6c;
+}
+
+.texto_griscla {
+    color: #d8e3e0;
+}
+
+.margen_superior {
+    margin-top: 16px !important
+}
+
+.margen_derecho {
+    margin-right: 16px !important;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.contenedor {
+    padding: 0.01em 16px
+}
+
+
+
+.opacidad_flotar:hover {
+    opacity: 0.60;
 }
