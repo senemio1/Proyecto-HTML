@@ -130,3 +130,7 @@ footer {
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.38);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.38);
 }
+
+.boton{ padding: 0;
+border: none;
+background: none;}
